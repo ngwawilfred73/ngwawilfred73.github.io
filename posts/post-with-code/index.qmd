@@ -1,0 +1,9 @@
+---
+title: "Youtube videos"
+author: "Wilfred NGWA"
+date: "2024-04-28"
+categories: [code, analysis, R]
+image: "image.jpg"
+---
+
+Here I provide free video lessons on epidemiology software. You can access this [here](https://www.youtube.com/@EpiGuider){target="\"_blank"}

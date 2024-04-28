@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Wilfred NGWA"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - about.qmd
+      - icon: youtube
+        text: YouTube
+        href: https://www.youtube.com/@EpiGuider
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/ngwa-wilfred-204013109/
+      - icon: github
+        text: Github
+        href: https://github.com/ngwawilfred73
+      - icon: website
+        text: Website
+        href: https://epiguider.com/
+format:
+  html:
+    theme: yeti
+    css: styles.css
+
+
+

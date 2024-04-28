@@ -1,0 +1,22 @@
+---
+title: "Wilfred NGWA"
+image: my.jpg
+about:
+  template: jolla
+  links:
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@EpiGuider
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ngwa-wilfred-204013109/
+    - icon: github
+      text: Github
+      href: https://github.com/ngwawilfred73
+    - icon: website
+      text: Website
+      href: https://epiguider.com/
+
+---
+
+Wilfred NGWA is an experienced international epidemiologist with a Master’s degree in epidemiology and infectious disease control. He has over 10 years of experience managing various diseases and setting up medical laboratories. He excels in database management, public health disease surveillance, epidemic preparedness, and statistical analysis. He is proficient in software like R, Stata, DHIS2, ENA, and Microsoft Office. He speaks French and English and has global experience in countries like Mauritania, Guinea Conakry, Zimbabwe, DR Congo, and Cameroon. He also runs a YouTube channel and a website. Currently, he is a PhD student in Public Health.
